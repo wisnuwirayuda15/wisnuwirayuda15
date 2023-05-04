@@ -1,13 +1,14 @@
 # 👋 Hello I'm Wisnu, a Junior Back-End Developer
 
 -   🌱 I’m currently learning **Laravel Framework**
--   👯 I’m looking to collaborate on a project, especially project that using Laravel Framework
+-   👯 I’m looking to collaborate on **a project, especially project that using Laravel Framework**
 -   💬 Ask me about **memes, programming, and technologies**
 -   📫 How to reach me: **wisnuwirayuda15@gmail.com**
 -   😄 Pronouns: **He, Him**
 -   ⚡ Fun fact: **I'm a fast learner**
+-   🗣️ Languages: **Indonesia**, **English**
 
-# 🌐 My Social Media
+## 🌐 My Social Media
 
 <a href="https://www.youtube.com/@WisnuWirayuda">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube">
@@ -22,7 +23,7 @@
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 </a>
 
-# 📊 My Github Stats
+## 📊 My Github Stats
 
 ![Wisnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=wisnuwirayuda15&show_icons=true&theme=radical)
 
@@ -32,7 +33,7 @@
 
 ![Wisnu's Trophy](https://github-profile-trophy.vercel.app/?username=wisnuwirayuda15&theme=radical)
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -44,14 +45,14 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-# 🛠️ Tools
+## 🛠️ Tools
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 
-# 👁️ Profile Views
+## 👁️ Profile Views
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=wisnuwirayuda15&label=Profile%20Views&color=12&icon=5&pretty=false" />
 </a>
