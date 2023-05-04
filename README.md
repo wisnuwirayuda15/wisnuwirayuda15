@@ -10,6 +10,9 @@
 
 ## 🌐 My Social Media
 
+<a href="https://www.linkedin.com/in/wisnuwirayuda/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Link">
+</a>
 <a href="https://www.youtube.com/@WisnuWirayuda">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube">
 </a>
