@@ -1,6 +1,7 @@
 # 👋 Hello I'm Wisnu, a Junior Back-End Developer
 
 -   🌱 I’m currently learning **Laravel Framework**
+-   🛠️ I’m currently working on this project [**Bidji Course**](https://github.com/SI-RPL-2023/SI4406_A_BidjiCourse)
 -   👯 I’m looking to collaborate on **a project, especially project that using Laravel Framework**
 -   💬 Ask me about **memes, programming, and technologies**
 -   📫 How to reach me: **wisnuwirayuda15@gmail.com**
