@@ -1,8 +1,7 @@
 # 👋 Hello I'm Wisnu, a Junior Back-End Developer
 
 -   🌱 I’m currently learning **Laravel** and **Flutter Framework**
--   🛠️ I’m currently working on this project [**Bidji Course**](https://github.com/SI-RPL-2023/SI4406_A_BidjiCourse)
--   👯 I’m looking to collaborate on **a project, especially project that using Laravel Framework**
+-   🛠️ I’m currently improving [**my portfolio website**](https://wisnuwirayuda.vercel.app/). If you like, you can give me an idea or a feedback for my website, I appreciate that :)
 -   💬 Ask me about **memes, programming,** and **technologies**
 -   📫 How to reach me: **wisnuwirayuda15@gmail.com**
 -   😄 Pronouns: **He, Him**
@@ -60,3 +59,6 @@
 <a href="#">
   <img src="https://visitcount.itsvg.in/api?id=wisnuwirayuda15&label=Profile%20Views&color=12&icon=5&pretty=false" />
 </a>
+
+## ✉️ Contact Me
+You can contact me via my social media, or if you prefer to be anonymous, you can still get in touch with me via forms on [**my portfolio website**](https://wisnuwirayuda.vercel.app/)
