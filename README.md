@@ -61,4 +61,4 @@
 </a>
 
 ## ✉️ Contact Me
-You can contact me via my social media, or if you prefer to be anonymous, you can still get in touch with me via forms on [**my portfolio website**](https://wisnuwirayuda.vercel.app/)
+You can contact me via my social media, or if you prefer to be anonymous, you can still get in touch with me via forms on [**my portfolio website**](https://wisnuwirayuda.vercel.app/#contacts)
