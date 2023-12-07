@@ -1,9 +1,8 @@
-# 👋 Hello I'm Wisnu, a Junior Back-End Developer
+# 👋 Hello I'm Wisnu, a Junior Full-Stack Web Developer
 
 -   🌱 I’m currently learning **SvelteKit**
 -   🛠️ I’m currently improving [**my portfolio website**](https://wisnuwirayuda.vercel.app/). If you like, you can give me an idea or a feedback for my website, I appreciate that :)
 -   💬 Ask me about **memes, programming,** and **technologies**
--   📫 How to reach me: **wisnuwirayuda15@gmail.com**
 -   😄 Pronouns: **He, Him**
 -   ⚡ Fun fact: **I'm a fast learner**
 -   🗣️ Languages: **Indonesia**, **English**
